@@ -1,0 +1,6 @@
+spec:
+  destination:
+    server: https://kubernetes.default.svc
+  source:
+    repoURL: git@github.com:lejencodes/argocd-example-install.git
+    targetRevision: HEAD
